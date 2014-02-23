@@ -1,0 +1,26 @@
+{
+  "name": "github-from-html",
+  "version": "0.0.0",
+  "description": "Find the github user & repo from a html-string with the \"Fork me on GitHub\"-badge",
+  "main": "github-from-html.js",
+  "dependencies": {
+    "cheerio": "~0.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kesla/github-from-html.git"
+  },
+  "keywords": [
+    "github"
+  ],
+  "author": "David Björklund <david.bjorklund@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kesla/github-from-html/issues"
+  },
+  "homepage": "https://github.com/kesla/github-from-html"
+}
